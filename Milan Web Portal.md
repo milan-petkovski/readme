@@ -65,7 +65,7 @@
 ## ✉️ Contact
 
 Have a project in mind or want to work together?  
-🌐 [milanwebportal.com](https://milanwebportal.com)  
+🌐 https://milanwebportal.com
 📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
 <br/>
 <p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
