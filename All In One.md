@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/fLJdZMvt/website2.jpg" width="500px" alt="All In One Extension Screenshot">
+  <img src="https://i.postimg.cc/8Cy2krbN/website2.jpg" width="500px" alt="All In One Extension Screenshot">
 </div>
 <br>
 

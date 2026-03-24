@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/pTpjxPB9/website6.jpg" width="500px" alt="Sinapis Website Screenshot">
+  <img src="https://i.postimg.cc/MTNgV24h/website6.jpg" width="500px" alt="Sinapis Website Screenshot">
 </div>
 <br>
 
