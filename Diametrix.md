@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website8.jpg" width="520px" alt="Diametrix Systems Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website8.jpg" width="520px" alt="Diametrix Systems Snimak projekta" />
 </div>
 
 <p align="center">
@@ -79,6 +79,8 @@ Sajt fokusira komunikaciju na tehničke prednosti, metode rada bez vibracija i j
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

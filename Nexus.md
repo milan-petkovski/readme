@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website15.jpg" width="520px" alt="Nexus Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website15.jpg" width="520px" alt="Nexus Snimak projekta" />
 </div>
 
 <p align="center">
@@ -63,6 +63,8 @@ Nexus koristi premium proizvod narativ: vizija brenda, modeli sa performansama, 
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

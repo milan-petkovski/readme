@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website13.jpg" width="520px" alt="Zenn Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website13.jpg" width="520px" alt="Zenn Snimak projekta" />
 </div>
 
 <p align="center">
@@ -62,6 +62,8 @@ Zenn koristi minimalistički SaaS okvir: uvodna poruka, kartice sa ključnim kor
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website7.jpg" width="520px" alt="Grilli Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website7.jpg" width="520px" alt="Grilli Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ Sajt koristi gastronomski storytelling sa više uvodna sekcija, istaknuti meni, 
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

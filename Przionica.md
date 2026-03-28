@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website17.jpg" width="520px" alt="Przionica Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website17.jpg" width="520px" alt="Przionica Snimak projekta" />
 </div>
 
 <p align="center">
@@ -63,6 +63,8 @@ Sajt spaja brend narativ, meni/event/blog navigaciju i društveni dokaz kroz Ins
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website11.jpg" width="520px" alt="EduLand Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website11.jpg" width="520px" alt="EduLand Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ odredišna struktura je postavljena kroz jasan edukativni tok konverzije: uvodna
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

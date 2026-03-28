@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website10.jpg" width="520px" alt="GameX Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website10.jpg" width="520px" alt="GameX Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ Sajt je organizovan kao event-driven experience: uvodna, tournament blok, winner
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

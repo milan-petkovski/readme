@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website9.jpg" width="520px" alt="Tourly Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website9.jpg" width="520px" alt="Tourly Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ Tourly kombinuje prikaz destinacija, kartice paketa sa cenama i finalni poziv na
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website14.jpg" width="520px" alt="Mipex Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website14.jpg" width="520px" alt="Mipex Snimak projekta" />
 </div>
 
 <p align="center">
@@ -63,6 +63,8 @@ Sajt koristi enterprise strukturu: company authority, servisni moduli, detalji f
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

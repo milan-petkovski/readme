@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website12.jpg" width="520px" alt="CFC Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website12.jpg" width="520px" alt="CFC Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ Pozicioniranje platforme je izgrađeno oko 4 stuba poverenja: sigurnost, brzina 
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

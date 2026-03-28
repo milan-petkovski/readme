@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website20.jpg" width="520px" alt="Ketering Karovic Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website20.jpg" width="520px" alt="Ketering Karovic Snimak projekta" />
 </div>
 
 <p align="center">
@@ -75,6 +75,8 @@ Platforma je strukturirana kroz premium positioning: o brendu, detaljni meniji s
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

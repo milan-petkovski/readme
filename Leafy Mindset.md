@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website5.jpg" width="520px" alt="Leafy Mindset Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website5.jpg" width="520px" alt="Leafy Mindset Snimak projekta" />
 </div>
 
 <p align="center">
@@ -74,6 +74,8 @@ odredišna je sveden na high-conversion format: snažan naslov, vrednosna poruka
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

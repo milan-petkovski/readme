@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website6.jpg" width="520px" alt="Sinapis Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website6.jpg" width="520px" alt="Sinapis Snimak projekta" />
 </div>
 
 <p align="center">
@@ -64,6 +64,8 @@ Sinapis koristi empatijsku strukturu: uvodnu sekciju fokusiranu na problem, jasn
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

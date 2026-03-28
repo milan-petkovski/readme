@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website16.jpg" width="520px" alt="Frosty Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website16.jpg" width="520px" alt="Frosty Snimak projekta" />
 </div>
 
 <p align="center">
@@ -65,6 +65,8 @@ Sajt kombinuje vizuelno bogat uvodna, katalog ukusa, priča brenda, lokacije i k
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

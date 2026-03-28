@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website4.jpg" width="520px" alt="Tutz Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website4.jpg" width="520px" alt="Tutz Snimak projekta" />
 </div>
 
 <p align="center">
@@ -76,6 +76,8 @@ Sajt je postavljen kao fan centar: live poziv na akciju (CTA) u uvodna delu, dru
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

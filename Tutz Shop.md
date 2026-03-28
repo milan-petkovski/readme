@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website21.jpg" width="520px" alt="Tutz Shop Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website21.jpg" width="520px" alt="Tutz Shop Snimak projekta" />
 </div>
 
 <p align="center">
@@ -73,6 +73,8 @@ Prodavnica je postavljen kao direktan tok usmeren na proizvod: uvodni brend blok
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 

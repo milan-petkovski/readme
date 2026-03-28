@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="../Milan%20Web%20Portal/images/Projects/website2.jpg" width="520px" alt="All In One Snimak projekta" />
+  <img src="https://milanwebportal.com/images/Projects/website2.jpg" width="520px" alt="All In One Snimak projekta" />
 </div>
 
 <p align="center">
@@ -65,6 +65,8 @@ Sajt i ekstenzija su strukturirani kao jedan objedinjeni sistem: jasna prezentac
 
 `🌐` Sajt: https://milanwebportal.com <br>
 `📧` Email: contact@milanwebportal.com <br>
+
+
 
 
 
