@@ -1,68 +1,90 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=ffcc25&center=true&vCenter=true&width=800&lines=Tutz+Shop;Custom+E-Commerce+Platform;High-Performance+Web+App;Digital+Retail+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffcc25&center=true&vCenter=true&width=900&lines=Tutz%20Shop;Pregled%20projekta;Web%20projekat" alt="Tutz Shop Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/4xsqz1LN/website21.jpg" width="500px" alt="Tutz Shop Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website21.jpg" width="520px" alt="Tutz Shop Snimak projekta" />
 </div>
-<br>
-
-<p align="center">
-  <strong>Tutz Shop</strong> is a modern, custom-built e-commerce platform designed for maximum performance and a fully personalized user experience.
-  <br><br>
-  Moving away from template-based builders, this site uses a custom architecture that combines the speed of modern frontend tools with a powerful backend infrastructure.
-  <br><br>
-  🛒 Seamless Shopping. 🎨 Unique Design. 🚀 Built for Scale.
-</p>
 
 <p align="center">
   <a href="https://tutzshop.com">
-    <img src="https://img.shields.io/badge/Visit-Website-ffcc25?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Visit-Website-ffcc25?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Tutz Shop |
+| **URL sajta uživo** | [https://tutzshop.com](https://tutzshop.com) |
+| **Tip** | E-commerce prodavnica |
+| **Primarni fokus** | Konverzija prodaje merča za kreatorski brend |
+| **Autor** | Milan Petkovski |
+## 🌟 Recenzija klijenta
 
-| Key Detail | Info |
-| :--- | :--- |
-| **Project Name** | Tutz Shop |
-| **Live URL** | https://tutzshop.com |
-| **Type** | Custom Full-Stack E-Commerce |
-| **Focus** | Performance, Scalability & UX |
-| **Author** | Milan Petkovski |
+> *Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale.*
+>
+> *Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne.*
+>
+> *Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su ne samo funkcionalni, već i vizuelno impresivni.*
+>
+> *Milan je izuzetno profesionalan u pristupu, a čak i kada su potrebne naknadne ispravke, on ih rešava u rekordnom roku.*
+>
+> *Ako tražite nekoga ko spaja kreativnost, efikasnost i sjajnu komunikaciju, Milan je pravi izbor!*
 
-<hr>
+## 🎯 Case study
 
-## 🚀 Technologies
+### 🧩 Problem
+Kreatorske merč prodavnice moraju imati brz pregled proizvoda, jasnu cenu i minimalan broj koraka do kupovine da bi zadržale impulse kupovine publike.
 
-* `⚛️` HTML5 & Modern JavaScript (ES6+)
-* `🎨` Tailwind CSS (Custom Styling)
-* `⚡` Vite / Frontend Tooling
-* `🔥` Supabase (Database, Auth & Storage)
-* `☁️` Edge Functions / Serverless Logic
-* `📱` Mobile-First Responsive Design
-* `📊` SEO & Core Web Vitals Optimization
+### 💡 Rešenje
+Prodavnica je postavljen kao direktan tok usmeren na proizvod: uvodni brend blok, istaknuti proizvodi, cena sa popustom, i jasan Naruči poziv na akciju (CTA) ka pojedinačnim proizvodima.
 
-<hr>
+### ✅ Šta je rešeno
+✅ Skraćen put od ulaska na sajt do stranice proizvoda <br>
+✅ Jasno istaknuta akcijska cena i vrednost ponude <br>
+✅ Uspostavljena osnovna infrastruktura politika za poverenje kupca <br>
+✅ Konzistentan vizuelni merč identitet <br>
 
-## 🎯 Features
+## ✨ Ključne funkcionalnosti
 
-* `🚀` Blazing fast load times by eliminating Shopify's overhead
-* `🔐` Secure user authentication and data management via Supabase
-* `🎨` Fully custom UI components built from scratch with Tailwind
-* `📦` Dynamic product management and inventory tracking
-* `📱` Perfect performance across all mobile and desktop devices
-* `📈` Optimized for high conversion rates and user engagement
+`🔹` Kartice proizvoda sa slikom, regularnom i akcijskom cenom <br>
+`🔹` Direktno naručivanje na sajtu <br>
+`🔹` Kontakt email i politike linkovi u podnožju <br>
+`🔹` Mobilno prilagođen e-trgovinski pregled <br>
+`🔹` Brend usklađen sa Tutz ekosistemom <br>
 
-<hr>
+## 🚀 Tehnologije
 
-## ✉️ Contact
+`⚙️` Custom prodavnica <br>
+`⚙️` Šabloni proizvoda za e-trgovinu <br>
+`⚙️` Responzivan raspored teme <br>
+`⚙️` Komponente politika i poverenja <br>
 
-Interested in a unique custom website or e-commerce solution?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+## 📈 SEO i performanse
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

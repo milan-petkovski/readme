@@ -1,69 +1,94 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=d81a23&center=true&vCenter=true&width=800&lines=Diametrix+Systems;Smart+Technology+Solutions;Modern+Business+Infrastructure;Innovation+Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d81a23&center=true&vCenter=true&width=900&lines=Diametrix%20Systems;Pregled%20projekta;Sajt%20industrijskih%20usluga" alt="Diametrix Systems Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/1zw9PbDK/website8.jpg" width="500px" alt="Diametrix Systems Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website8.jpg" width="520px" alt="Diametrix Systems Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Diametrix Systems</strong> is a modern technology platform focused on delivering smart digital and infrastructure solutions for businesses.
-  <br><br>
-  The project highlights innovation, reliability, and scalable systems designed to support companies in building efficient and future-ready digital environments.
-  <br><br>
-  ⚡ Smart systems. 🧠 Innovative solutions. 🚀 Built for modern businesses.
-</p>
-
-<p align="center">
-  <a href="https://diametrix-systems.com/">
-    <img src="https://img.shields.io/badge/Visit-Website-d81a23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://diametrix-systems.com">
+    <img src="https://img.shields.io/badge/Visit-Website-d81a23?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Diametrix Systems |
+| **URL sajta uživo** | [https://diametrix-systems.com](https://diametrix-systems.com) |
+| **Tip** | Sajt industrijskih usluga |
+| **Primarni fokus** | Generisanje upita za sečenje, bušenje i demontažu betona |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                              |
-|------------------|-----------------------------------|
-| **Project Name** | Diametrix Systems                 |
-| **Live URL**     | https://diametrix-systems.com/    |
-| **Type**         | Technology Website                |
-| **Focus**        | Digital & Infrastructure Systems  |
-| **Author**       | Milan Petkovski                   |
+## 🌟 Recenzija klijenta
 
-<hr>
+> *Saradnja sa Milanom je bila ozbiljna i maksimalno efikasna od prvog dana.*
+>
+> *Odlično je razumeo našu industriju i način na koji komuniciramo usluge, pa je sajt pogodio tačno ono što nam je trebalo za klijente i upite.*
+>
+> *Posebno cenimo brzinu izrade, jasnu komunikaciju i to što je svaka sugestija bila implementirana praktično odmah.*
+>
+> *Rezultat je moderan i profesionalan sajt koji izgleda odlično i radi besprekorno na svim uređajima.*
+>
+> *Sve preporuke za Milana, pravi profesionalac.*
+>
+> *- Diametrix Systems tim*
 
-## 🚀 Technologies
+## 🎯 Case study
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### 🧩 Problem
+Industrijski klijenti traže izvođača sa visokim stepenom preciznosti, sigurnosti i minimalnim ometanjem objekta tokom zahtevnih radova.
 
-<hr>
+### 💡 Rešenje
+Sajt fokusira komunikaciju na tehničke prednosti, metode rada bez vibracija i jasne servisne tokove (bušenje, sečenje, demontaža) uz više ulaznih poziv na akciju (CTA) tačaka za ponudu.
 
-## 🎯 Features
+### ✅ Šta je rešeno
+✅ Jasno objašnjene metode i tehničke prednosti po usluzi <br>
+✅ Konzistentno istaknuti sigurnost, čistoća i preciznost <br>
+✅ Više direktnih poziv na akciju (CTA) putanja do kontakt/ponuda stranica <br>
+✅ Pojačan autoritet kroz reference na partnerske standarde <br>
 
-- `⚡` Modern and professional website structure  
-- `📱` Fully responsive design for all devices  
-- `🚀` Performance optimized pages  
-- `🎨` Clean corporate visual identity  
-- `🧩` Modular layout sections  
-- `🔗` Scalable architecture for future expansion  
-- `📈` Business-focused digital presentation  
+## ✨ Ključne funkcionalnosti
 
-<hr>
+`🔹` Detaljne sekcije po usluzi: bušenje, sečenje, demontaža, obrada <br>
+`🔹` korist listovi sa industrijskim argumentima <br>
+`🔹` Servisne podstrane za dublje informisanje <br>
+`🔹` Kontakt podaci i lokalna prisutnost jasno istaknuti <br>
+`🔹` Tehnički narativ prilagođen B2B klijentima <br>
+`🔹` SEO struktura za uslužne upite <br>
 
-## ✉️ Contact
+## 🚀 Tehnologije
 
-Interested in building a similar digital solution?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` usluga-page architecture <br>
+`⚙️` SEO-focused tekst blocks <br>
+`⚙️` Responzivan frontend <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## 📈 SEO i performanse
+
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+

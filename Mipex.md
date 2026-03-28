@@ -1,69 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=f57113&center=true&vCenter=true&width=800&lines=Mipex+Platform;Innovative+Business+Solutions;Modern+Digital+Tools;Smart+Enterprise+Website" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=f57113&center=true&vCenter=true&width=900&lines=Mipex;Pregled%20projekta;Sajt%20logistike%20i%20transporta" alt="Mipex Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/mrCbRK76/website14.jpg" width="500px" alt="Mipex Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website14.jpg" width="520px" alt="Mipex Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Mipex</strong> is a modern digital platform designed to provide innovative business solutions with a clean, efficient, and scalable interface.
-  <br><br>
-  The website focuses on presenting digital tools, business services, and smart enterprise solutions while maintaining a professional and visually appealing layout.
-  <br><br>
-  ⚡ Smart solutions. 🧩 Modern interface. 🚀 Built for business growth.
-</p>
-
-<p align="center">
-  <a href="https://mipex.milanwebportal.com/">
-    <img src="https://img.shields.io/badge/Visit-Website-f57113?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://mipex.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-Website-f57113?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Mipex |
+| **URL sajta uživo** | [https://mipex.milanwebportal.com](https://mipex.milanwebportal.com) |
+| **Tip** | Sajt logistike i transporta |
+| **Primarni fokus** | B2B poverenje i generisanje upita za transportne usluge |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                               |
-|------------------|------------------------------------|
-| **Project Name** | Mipex                              |
-| **Live URL**     | https://mipex.milanwebportal.com/  |
-| **Type**         | Business Solutions Website         |
-| **Focus**        | Digital Tools & Enterprise Services|
-| **Author**       | Milan Petkovski                    |
+## 🎯 Studija slučaja
 
-<hr>
+### 🧩 Problem
+Logističke kompanije moraju jasno prikazati operativnu pouzdanost, kapacitete flote i domet usluga kako bi dobile ozbiljne B2B upite.
 
-## 🚀 Technologies
+### 💡 Rešenje
+Sajt koristi enterprise strukturu: company authority, servisni moduli, detalji flote, operativne metrike i formular za ponudu.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### ✅ Šta je rešeno
+✅ Jasno pozicioniran MIPEX kao dugogodišnji logistički partner <br>
+✅ Servisi razdvojeni po poslovnim scenarijima upotrebe <br>
+✅ Flota prikazana kroz konkretne kapacitete <br>
+✅ Kontakt i quote tok optimizovani za B2B upite <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Sekcije za međunarodni transport, skladištenje i kabasti teret <br>
+`🔹` Flota sa tipovima vozila i kapacitetima <br>
+`🔹` Statistika poverenja i iskustva <br>
+`🔹` Quote/contact forma u završnom delu <br>
+`🔹` Jasna navigacija za ključne poslovne informacije <br>
+`🔹` B2B orijentisana struktura teksta <br>
 
-- `⚡` Professional business-focused design  
-- `📱` Fully responsive interface  
-- `🎨` Clean and modern visual layout  
-- `🚀` Fast and optimized pages  
-- `🧩` Modular structure for easy updates  
-- `🔗` Showcase of enterprise tools and solutions  
-- `📈` Built for scalability and business growth  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` Moderna frontend arhitektura <br>
+`⚙️` Responzivan dizajn <br>
+`⚙️` Section-based storytelling <br>
+`⚙️` SEO-ready corporate content <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Interested in creating a business solutions platform?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+

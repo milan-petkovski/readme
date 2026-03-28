@@ -1,69 +1,91 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=8541b8&center=true&vCenter=true&width=800&lines=Tutz+Platform;Modern+Digital+Solutions;Creative+Tech+Hub;Sleek+Web+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=8541b8&center=true&vCenter=true&width=900&lines=Tutz;Pregled%20projekta;Centralni%20sajt%20strimerske%20zajednice" alt="Tutz Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/htHSkKQ9/website4.jpg" width="500px" alt="Tutz Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website4.jpg" width="520px" alt="Tutz Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Tutz</strong> is a modern digital platform designed to provide creative tech solutions and showcase innovative projects with a sleek and professional interface.
-  <br><br>
-  The website emphasizes clean design, intuitive navigation, and modular layouts to deliver a seamless user experience for tech enthusiasts and clients.
-  <br><br>
-  ⚡ Innovative design. 🎨 Modern interface. 🚀 Built for creative tech solutions.
-</p>
-
-<p align="center">
-  <a href="https://tutzz.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit-Website-8541b8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://tutzz.netlify.app">
+    <img src="https://img.shields.io/badge/Visit-Website-8541b8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Tutz |
+| **URL sajta uživo** | [https://tutzz.netlify.app](https://tutzz.netlify.app) |
+| **Tip** | Centralni sajt strimerske zajednice |
+| **Primarni fokus** | Angažovanje publike i usmeravanje saobraćaja ka lajvu i merču |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                             |
-|------------------|----------------------------------|
-| **Project Name** | Tutz                             |
-| **Live URL**     | https://tutzz.netlify.app/       |
-| **Type**         | Digital Platform Website         |
-| **Focus**        | Creative Tech & Digital Solutions|
-| **Author**       | Milan Petkovski                  |
+## 🌟 Recenzija klijenta
 
-<hr>
+> *Imao sam veliko zadovoljstvo da sarađujem sa Milanom i mogu reći samo reči hvale.*
+>
+> *Njegova posvećenost i angažovanost su na vrhunskom nivou - uvek je dostupan i spreman da pomogne.*
+>
+> *Ono što ga izdvaja je neverovatna brzina rada bez kompromisa na kvalitetu, sajtovi koje kreira su ne samo funkcionalni, već i vizuelno impresivni.*
+>
+> *Milan je izuzetno profesionalan u pristupu, a čak i kada su potrebne naknadne ispravke, on ih rešava u rekordnom roku.*
+>
+> *Ako tražite nekoga ko spaja kreativnost, efikasnost i sjajnu komunikaciju, Milan je pravi izbor!*
 
-## 🚀 Technologies
+## 🎯 Case study
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### 🧩 Problem
+Kreator sa velikom zajednicom treba centralno mesto koje povezuje live sadržaj, merč, Najčešća pitanja i kontakt bez gubitka pažnje publike.
 
-<hr>
+### 💡 Rešenje
+Sajt je postavljen kao fan centar: live poziv na akciju (CTA) u uvodna delu, društveni dokaz kroz mreže i brojke, merč sekcija sa direktnim kupovinama, Najčešća pitanja i kontakt tok konverzije.
 
-## 🎯 Features
+### ✅ Šta je rešeno
+✅ Centralizovan saobraćaj ka Kick streamu i shopu <br>
+✅ Povezani svi ključni kanali zajednice na jednom mestu <br>
+✅ Uspostavljen Najčešća pitanja za smanjenje ponavljajućih pitanja publike <br>
+✅ Omogućen brz kontakt za saradnje i sponzorstva <br>
 
-- `⚡` Creative tech-focused layout  
-- `📱` Fully responsive and sleek design  
-- `🎨` Modern and visually appealing interface  
-- `🚀` Optimized for performance and speed  
-- `🧩` Modular sections for easy updates  
-- `🔗` Project showcases and service presentation  
-- `📈` Built for engagement and professional presentation  
+## ✨ Ključne funkcionalnosti
 
-<hr>
+`🔹` uvodna sa live i merč primarnim poziv na akciju (CTA) dugmadima <br>
+`🔹` Društveni blok zajednice sa platformskim linkovima <br>
+`🔹` merč showcase sa direktnim proizvodnim linkovima <br>
+`🔹` Najčešća pitanja sa informacijama relevantnim za fan bazu <br>
+`🔹` Sponzori i partner sekcija <br>
+`🔹` Kontakt i newsletter moduli <br>
 
-## ✉️ Contact
+## 🚀 Tehnologije
 
-Want a similar digital platform or tech solution website?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` Netlify functions integration <br>
+`⚙️` Responzivan korisničko iskustvo za kreatorski sajt <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## 📈 SEO i performanse
+
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+

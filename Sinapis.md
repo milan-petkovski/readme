@@ -1,69 +1,74 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=fdce0f&center=true&vCenter=true&width=800&lines=Sinapis+Website;Premium+Mustard+Brand;Modern+Food+Design;Flavor+Elevated" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=fdce0f&center=true&vCenter=true&width=900&lines=Sinapis;Pregled%20projekta;Sajt%20terapijskih%20programa%20i%20digitalnog%20proizvoda" alt="Sinapis Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/MTNgV24h/website6.jpg" width="500px" alt="Sinapis Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website6.jpg" width="520px" alt="Sinapis Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Sinapis</strong> is a modern website for a premium mustard brand, designed to highlight product quality, flavors, and brand identity in an engaging and visually appealing way.
-  <br><br>
-  The design focuses on clean presentation, intuitive navigation, and showcasing the brand’s culinary uniqueness to attract customers online.
-  <br><br>
-  🌭 Premium design. 🎨 Modern aesthetics. 🚀 Built for food lovers.
-</p>
-
-<p align="center">
-  <a href="https://sinapis.rs/">
-    <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Badge">
+  <a href="https://sinapis.rs">
+    <img src="https://img.shields.io/badge/Visit-Website-fdce0f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Sinapis |
+| **URL sajta uživo** | [https://sinapis.rs](https://sinapis.rs) |
+| **Tip** | Sajt terapijskih programa i digitalnog proizvoda |
+| **Primarni fokus** | Pretvaranje posetilaca u upite, polaznike programa i kupce knjige |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                           |
-|------------------|--------------------------------|
-| **Project Name** | Sinapis                        |
-| **Live URL**     | https://sinapis.rs/            |
-| **Type**         | Food Brand Website             |
-| **Focus**        | Premium Mustard & Product Showcase |
-| **Author**       | Milan Petkovski                |
+## 🎯 Studija slučaja
 
-<hr>
+### 🧩 Problem
+Korisnici sa telesnim i mentalnim tegobama traže poverenje, jasnoću i konkretan prvi korak, ali često nailaze na preopterećene i nejasne terapijske sajtove.
 
-## 🚀 Technologies
+### 💡 Rešenje
+Sinapis koristi empatijsku strukturu: uvodnu sekciju fokusiranu na problem, jasno predstavljen terapeut, segmentacija programa (telo/um) i direktni kontakt kanali.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### ✅ Šta je rešeno
+✅ Jasno postavljen put od problema ka programu <br>
+✅ Knjiga Deca Dece pozicionirana kao ulazni digitalni proizvod <br>
+✅ Povećano poverenje kroz detaljnu bio sekciju terapeuta <br>
+✅ Kontakt kanali (email/društveni) učinjeni maksimalno dostupnim <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` uvodna poruka sa jakim emocionalnim okidačem i poziv na akciju (CTA)-om <br>
+`🔹` Program segmentation: telo i um <br>
+`🔹` Digital book offer sa akcijskom cenom <br>
+`🔹` Terapeut profil i metodološki pristup <br>
+`🔹` Kontakt sekcija sa više komunikacionih kanala <br>
+`🔹` Podržane pravne stranice (privatnost/povraćaj) <br>
 
-- `🌭` Premium food product presentation  
-- `📱` Fully responsive and modern layout  
-- `🎨` Clean, attractive visual design  
-- `🚀` Optimized for speed and performance  
-- `🧩` Modular sections for easy updates  
-- `🔗` Product and brand storytelling  
-- `📈` Built to engage and convert food enthusiasts  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` Sekcije usmerene na konverziju <br>
+`⚙️` SEO structure for health niche <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Interested in creating a modern food brand website?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+

@@ -1,69 +1,73 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=00d4ff&center=true&vCenter=true&width=800&lines=Nexus+Platform;Next-Gen+Connectivity;Modern+Tech+Solutions;Seamless+Digital+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=00d4ff&center=true&vCenter=true&width=900&lines=Nexus;Pregled%20projekta;Koncept%20sajt%20automobilske%20industrije" alt="Nexus Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/pdz2x3K7/website15.jpg" width="500px" alt="Nexus Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website15.jpg" width="520px" alt="Nexus Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Nexus</strong> is a modern digital platform designed to connect users with cutting-edge technology solutions in a sleek and intuitive interface.
-  <br><br>
-  The website emphasizes seamless navigation, fast performance, and modular design to provide an engaging experience for tech-savvy audiences.
-  <br><br>
-  ⚡ Fast & modern. 🌐 Connected solutions. 🚀 Built for next-gen users.
-</p>
-
-<p align="center">
-  <a href="https://nexus.milanwebportal.com/">
-    <img src="https://img.shields.io/badge/Visit-Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Badge">
+  <a href="https://nexus.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Nexus |
+| **URL sajta uživo** | [https://nexus.milanwebportal.com](https://nexus.milanwebportal.com) |
+| **Tip** | Koncept sajt automobilske industrije |
+| **Primarni fokus** | Premium EV storytelling brenda i pregled modela |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                              |
-|------------------|-----------------------------------|
-| **Project Name** | Nexus                             |
-| **Live URL**     | https://nexus.milanwebportal.com/ |
-| **Type**         | Technology Platform Website       |
-| **Focus**        | Connectivity & Modern Tech        |
-| **Author**       | Milan Petkovski                   |
+## 🎯 Studija slučaja
 
-<hr>
+### 🧩 Problem
+Brendovi automobilske industrije moraju spojiti aspirativni vizuelni identitet i informativni model/spec sadržaj bez narušavanja korisničko iskustvo-a.
 
-## 🚀 Technologies
+### 💡 Rešenje
+Nexus koristi premium proizvod narativ: vizija brenda, modeli sa performansama, konfigurator, tech sekcija i kontakt za test vožnju.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### ✅ Šta je rešeno
+✅ Spojena emocionalni brending i tehnička specifikacija modela <br>
+✅ Jasno strukturiran raspored modela i podaci o performansama <br>
+✅ Dodata konfiguracija vozila kao interaktivni element <br>
+✅ Kontaktni tok konverzije za showroom/test drive nameru <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Model kartice sa range/speed/acceleration metrikama <br>
+`🔹` Configure section za personalizaciju vozila <br>
+`🔹` Technology blok (AI, battery, connectivity, safety) <br>
+`🔹` Premium automotive visual language <br>
+`🔹` Showroom kontakt i inquiry forma <br>
+`🔹` Snažno brendirano podnožje sa legal/support sekcijama <br>
 
-- `🌐` Next-gen technology platform  
-- `📱` Fully responsive and clean design  
-- `🚀` Optimized for speed and performance  
-- `🎨` Modern and modular visual interface  
-- `🧩` Easy-to-update modular sections  
-- `🔗` User-focused navigation and experience  
-- `📈` Built for engagement and scalability  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` Moderan frontend tehnologije <br>
+`⚙️` Responzivan vizuelno bogat interfejs <br>
+`⚙️` Interaktivni obrasci konfiguratora <br>
+`⚙️` Performance-first media handling <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Want a similar tech platform or project?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+

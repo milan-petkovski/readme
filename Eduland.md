@@ -1,69 +1,79 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=ffa600&center=true&vCenter=true&width=800&lines=Eduland+Platform;Modern+Learning+Experience;Education+Made+Simple;Digital+Learning+Space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ffa600&center=true&vCenter=true&width=900&lines=EduLand;Pregled%20projekta;Web%20projekat" alt="EduLand Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/q7yk0W2m/website11.jpg" width="500px" alt="Eduland Platform Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website11.jpg" width="520px" alt="EduLand Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Eduland</strong> is a modern educational platform concept designed to create an engaging and accessible digital learning environment.
-  <br><br>
-  The project focuses on clear structure, intuitive navigation, and a clean interface that helps students and educators interact with educational content easily.
-  <br><br>
-  ⚡ Simple learning. 📚 Modern education. 🚀 Built for the digital classroom.
-</p>
-
-<p align="center">
-  <a href="https://eduland.milanwebportal.com/">
-    <img src="https://img.shields.io/badge/Visit-Website-ffa600?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://eduland.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-Website-ffa600?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | EduLand |
+| **URL sajta uživo** | [https://eduland.milanwebportal.com](https://eduland.milanwebportal.com) |
+| **Tip** | Edukativna platforma |
+| **Primarni fokus** | Upoznavanje programa i podsticaj prijave |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                               |
-|------------------|------------------------------------|
-| **Project Name** | Eduland                            |
-| **Live URL**     | https://eduland.milanwebportal.com/ |
-| **Type**         | Educational Platform Website       |
-| **Focus**        | Digital Learning & Education       |
-| **Author**       | Milan Petkovski                    |
+## 🎯 Case study
 
-<hr>
+### 🧩 Problem
+Edukativni sajtovi često ne uspevaju da jasno povežu programe, predavače i prijavu, pa korisnici gube fokus pre konverzije.
 
-## 🚀 Technologies
+### 💡 Rešenje
+odredišna struktura je postavljena kroz jasan edukativni tok konverzije: uvodna, programi, predavači, blok za prijavu i podnožje sa servisnim informacijama.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### ✅ Šta je rešeno
+✅ Uspostavljen jasan put od upoznavanja do prijave <br>
+✅ Programi istaknuti kao primarni sadržajni blok <br>
+✅ Povećan kredibilitet kroz sekciju predavača <br>
+✅ Kontakt i poziv na akciju (CTA) za prijavu pozicionirani kao završni korak <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Program kartice za AI, Civil Engineering i Business Studies <br>
+`🔹` Instructor showcase sekcija <br>
+`🔹` Apply now poziv na akciju (CTA) segment <br>
+`🔹` Čista edukativna navigacija <br>
+`🔹` podnožje sa ključnim servisnim i kontakt informacijama <br>
+`🔹` Mobilno prilagođen raspored sekcija <br>
 
-- `📚` Clean and structured educational layout  
-- `📱` Fully responsive design  
-- `🚀` Fast and optimized pages  
-- `🎨` Modern and engaging visual interface  
-- `🧩` Modular page sections  
-- `🔗` Clear navigation and user flow  
-- `📈` Built for scalable educational platforms  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` Responzivan dizajn <br>
+`⚙️` odredišna-page conversion structure <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Interested in building a similar platform or educational website?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+

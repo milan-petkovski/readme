@@ -1,72 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=All+In+One+Extension;Productivity+Toolkit;Everything+In+One+Place;Fast+Simple+Useful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=All%20In%20One;Pregled%20projekta;Web%20projekat" alt="All In One Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/8Cy2krbN/website2.jpg" width="500px" alt="All In One Extension Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website2.jpg" width="520px" alt="All In One Snimak projekta" />
 </div>
-<br>
-
-<p align="center">
-  <strong>All In One</strong> is a lightweight productivity extension designed to bring multiple useful tools into one clean and simple interface.
-  <br><br>
-  Instead of opening many different websites or apps, everything you need is available in one place — fast, minimal, and distraction-free.
-  <br><br>
-  ⚡ Fast access. 🧰 Multiple tools. 🎯 Built for everyday productivity.
-</p>
 
 <p align="center">
   <a href="https://allinone.milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-00FF88?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
-  </a>
-  <a href="https://chromewebstore.google.com/detail/all-in-one/hmkcbieabcldlndhjeemggokhlebjoem">
-    <img src="https://img.shields.io/badge/Chrome-WebStore-00FF88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store Badge">
+    <img src="https://img.shields.io/badge/Visit-Website-00FF88?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | All In One |
+| **URL sajta uživo** | [https://allinone.milanwebportal.com](https://allinone.milanwebportal.com) |
+| **Tip** | Sajt za moju Chrome ekstenziju |
+| **Primarni fokus** | Objedinjavanje 15+ svakodnevnih alata pregledača u jedan brz tok rada |
+| **Autor** | Milan Petkovski |
 
-| Key Detail        | Info                                                                 |
-|-------------------|----------------------------------------------------------------------|
-| **Project Name**  | All In One Extension                                                 |
-| **Live URL**      | https://allinone.milanwebportal.com                                  |
-| **Chrome Store**  | https://chromewebstore.google.com/detail/all-in-one/hmkcbieabcldlndhjeemggokhlebjoem |
-| **Type**          | Browser Extension                                                    |
-| **Author**        | Milan Petkovski                                                      |
+## 🎯 Case study
 
-<hr>
+### 🧩 Problem
+Korisnici su koristili veliki broj različitih ekstenzija za svakodnevne zadatke (otključavanje kopiranja, birač boja, tamni režim, praćenje vremena, brzo beleženje isečaka), što je usporavalo rad i povećavalo haos u pregledaču.
 
-## 🚀 Technologies
+### 💡 Rešenje
+Sajt i ekstenzija su strukturirani kao jedan objedinjeni sistem: jasna prezentacija ključnih funkcija, sekcije po scenarijima upotrebe (kreativci, developeri, produktivci) i direktan poziv na akciju (CTA) ka instalaciji.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `🧩` Chrome Extension API  
-- `📱` Responsive Interface  
-- `✨` Iconify Icons  
-- `⚡` Lightweight Architecture  
+### ✅ Šta je rešeno
+✅ Objedinjeno 15+ funkcija u jednoj ekstenziji <br>
+✅ Jasno prikazan tok instalacije u 3 koraka <br>
+✅ Istaknuti realni primerima upotrebe moduli: Smart Notes, Webtime Tracker, Page Marker <br>
+✅ Jaka konverziona sekcija sa društvenim dokazom i recenzijama <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Desktop-first onboarding tok sa rezervnom porukom za mobilne korisnike <br>
+`🔹` Pregled kompletne funkcionalnosti kroz više sekcija i demonstracija <br>
+`🔹` Istaknute funkcije produktivnosti: beleženje vremenskih oznaka, brojač karaktera i alati za keš/kolačiće <br>
+`🔹` Segmentacija vrednosti po profilu korisnika (kreativci, developeri, napredni korisnici) <br>
+`🔹` Društveni dokaz kroz korisničke ocene <br>
+`🔹` Direktan poziv na akciju (CTA) ka Chrome Web Store instalaciji <br>
 
-- `⚡` Fast and lightweight extension  
-- `🧰` Multiple useful tools in one place  
-- `🧭` Simple and intuitive interface  
-- `📱` Clean responsive design  
-- `🔗` Quick access to commonly used tools  
-- `🎯` Built for productivity and efficiency  
-- `🧩` Minimal and distraction-free experience  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` Prilagođen UI/UX tok sadržaja <br>
+`⚙️` SEO meta struktura <br>
+`⚙️` Frontend usmeren na performanse <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Have ideas for improvements or want to collaborate?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Built with passion and simplicity by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+

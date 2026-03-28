@@ -1,69 +1,75 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=ec4797&center=true&vCenter=true&width=800&lines=Frosty+Website;Creative+Ice+Cream+Brand;Fresh+Sweet+Experience;Modern+Food+Website" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=ec4797&center=true&vCenter=true&width=900&lines=Frosty;Pregled%20projekta;Sajt%20brenda%20sladoleda" alt="Frosty Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/43VJZjpj/website16.jpg" width="500px" alt="Frosty Website Screenshot">
+  <img src="../Milan%20Web%20Portal/images/Projects/website16.jpg" width="520px" alt="Frosty Snimak projekta" />
 </div>
-<br>
 
 <p align="center">
-  <strong>Frosty</strong> is a vibrant and modern website concept created for an ice cream brand that wants to stand out with a fun and visually engaging online presence.
-  <br><br>
-  The design focuses on colorful branding, smooth user experience, and a clean layout that highlights products and creates a playful digital atmosphere.
-  <br><br>
-  🍦 Fresh design. 🎨 Vibrant colors. 🚀 Built for modern food brands.
-</p>
-
-<p align="center">
-  <a href="https://frosty.milanwebportal.com/">
-    <img src="https://img.shields.io/badge/Visit-Website-ec4797?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+  <a href="https://frosty.milanwebportal.com">
+    <img src="https://img.shields.io/badge/Visit-Website-ec4797?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Frosty |
+| **URL sajta uživo** | [https://frosty.milanwebportal.com](https://frosty.milanwebportal.com) |
+| **Tip** | Sajt brenda sladoleda |
+| **Primarni fokus** | Storytelling proizvoda i konverzija u posetu/kupovinu |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                               |
-|------------------|------------------------------------|
-| **Project Name** | Frosty                             |
-| **Live URL**     | https://frosty.milanwebportal.com/ |
-| **Type**         | Food / Brand Website               |
-| **Focus**        | Ice Cream Brand Presentation       |
-| **Author**       | Milan Petkovski                    |
+## 🎯 Studija slučaja
 
-<hr>
+### 🧩 Problem
+Food brendovima je potreban sajt koji spaja emocionalni storytelling i jasnu kupovnu/posetilačku akciju (flavors, lokacije, kontakt).
 
-## 🚀 Technologies
+### 💡 Rešenje
+Sajt kombinuje vizuelno bogat uvodna, katalog ukusa, priča brenda, lokacije i kontakt sekciju kako bi korisnik lako prešao put od inspiracije do porudžbine/posete.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `✨` Modern UI Components  
-- `🔤` Google Fonts  
-- `📊` SEO Optimization  
+### ✅ Šta je rešeno
+✅ Jasna prezentacija proizvoda sa cenama i akcijama <br>
+✅ Pojačana brend priča kroz About/Story segment <br>
+✅ Lokalna konverzija kroz sekciju lokacija i radno vreme <br>
+✅ Uključena kontakt forma za dodatne upite <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Signature flavors katalog sa rating i pricing prikazom <br>
+`🔹` Brand heritage narativ (od 1995) <br>
+`🔹` Store locator i kontakt podaci <br>
+`🔹` Sekcije za catering/events primerima upotrebe <br>
+`🔹` Newsletter/retention blok <br>
+`🔹` Vizuelno jak i mobile-friendly proizvod layout <br>
 
-- `🍦` Creative food brand design  
-- `📱` Fully responsive layout  
-- `🎨` Colorful and engaging interface  
-- `🚀` Fast and optimized website structure  
-- `🧩` Modular page sections  
-- `🔗` Smooth navigation and user flow  
-- `📈` Built for modern brand presentation  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` HTML5 <br>
+`⚙️` CSS3 <br>
+`⚙️` JavaScript <br>
+`⚙️` Responzivan UI <br>
+`⚙️` Dizajn proizvoda vođen vizualima <br>
+`⚙️` prilagođena SEO-u sectioning <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Interested in creating a modern brand website?  
-🌐 https://milanwebportal.com  
-📧 contact@milanwebportal.com  
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
 
-<br/>
-<p align="center"> 🚀 Designed and developed by <strong>Milan Petkovski</strong> </p>
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+

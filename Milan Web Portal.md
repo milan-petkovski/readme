@@ -1,71 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=d3ad7f&center=true&vCenter=true&width=800&lines=Milan+Web+Portal;Creative+Digital+Portal;Modern+Clean+Design;Next-Gen+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3800&pause=1000&color=d3ad7f&center=true&vCenter=true&width=900&lines=Milan%20Web%20Portal;Pregled%20projekta;Web%20projekat" alt="Milan Web Portal Naslov koji se ispisuje" />
 </p>
 
 <div align="center">
-  <img src="https://i.postimg.cc/PfLjxKc2/website1.jpg" width="500px" alt="Milan Web Portal Screenshot">
-</div>  
-<br>
-
-<p align="center">
-  <strong>Milan Web Portal</strong> is the flagship website and central hub for all Milan Web Portal projects, delivering sleek, performant, and user-centered web solutions.
-  <br><br>
-  From startups and local businesses to freelancers and creators, the portal offers customized web solutions built with clarity, speed, and visual impact in mind.  
-  <br><br>
-  ⚡ Clean code. 🎨 Modern design. 📱 Seamless experience.
-</p>
+  <img src="../Milan%20Web%20Portal/images/Projects/website1.jpg" width="520px" alt="Milan Web Portal Snimak projekta" />
+</div>
 
 <p align="center">
   <a href="https://milanwebportal.com">
-    <img src="https://img.shields.io/badge/Visit-Website-d3ad7f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Visit-Website-d3ad7f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Badge za posetu sajtu" />
   </a>
 </p>
 
-<hr>
+## 🧊 Detalji projekta
 
-## 🧊 Project Overview
+| Ključni podatak | Vrednost |
+|---|---|
+| **Naziv projekta** | Milan Web Portal |
+| **URL sajta uživo** | [https://milanwebportal.com](https://milanwebportal.com) |
+| **Tip** | Portfolio |
+| **Primarni fokus** | Predstavljanje usluga, dokaza rada i dolaznih upita |
+| **Autor** | Milan Petkovski |
 
-| Key Detail       | Info                                              |
-|------------------|---------------------------------------------------|
-| **Project Name** | Milan Web Portal                                  |
-| **Live URL**     | [milanwebportal.com](https://milanwebportal.com)  |
-| **Type**         | Portfolio & Central Hub                            |
-| **Launch Date**  | 1. June 2022                                     |
-| **Author**       | Milan Petkovski                                   |
+## 🎯 Case study
 
-<hr>
+### 🧩 Problem
+Portfolio freelancera/agencije mora istovremeno dokazati kompetenciju, jasno komunicirati usluge i pretvoriti posete u konkretne upite.
 
-## 🚀 Technologies
+### 💡 Rešenje
+Portal je postavljen kao kompletan tok rasta i konverzije: lični kredibilitet, usluge, tehnički skup veština, glavni projekti, svedočenja klijenata, kontakt forma i logotipi poverenja.
 
-- `📄` HTML5  
-- `🎨` CSS3  
-- `🧠` JavaScript  
-- `📱` Responsive Design  
-- `🔤` Google Fonts  
-- `✨` Font Awesome / Iconify  
-- `📊` SEO Optimization  
-- `📡` API Integration  
+### ✅ Šta je rešeno
+✅ Jasno mapirane usluge od izrade do održavanja <br>
+✅ Pojačan kredibilitet kroz istaknute projekte i utiske <br>
+✅ Kreirana jasna putanja ka upitu do kontakt forme <br>
+✅ Objedinjeni lični brend i komercijalna ponuda na jednom mestu <br>
 
-<hr>
+## ✨ Ključne funkcionalnosti
 
-## 🎯 Features
+`🔹` Arhitektura usluga: web, SEO, GMB, analitika, održavanje <br>
+`🔹` Istaknuti projekti sa direktnim odlascima na live sajtove <br>
+`🔹` Svedočenja klijenata sa stvarnim klijent kontekstom <br>
+`🔹` Matrica veština za tehnički i marketing kapacitet <br>
+`🔹` Kontakt forma sa budžet poljem <br>
+`🔹` Sekcija ekosistema sa povezanim brendovima/projektima <br>
 
-- `⚡` Fast and lightweight architecture  
-- `📱` 100% responsive on all devices  
-- `🧩` Modular design with reusable sections  
-- `🖼️` Interactive project showcase with animations  
-- `🔗` Custom Linktree integration  
-- `📨` Functional contact form  
-- `📄` Dynamic FAQ and live sections  
-- `🛍️` Future-ready shop page  
-- `🌐` SEO-optimized structure for better visibility  
+## 🚀 Tehnologije
 
-<hr>
+`⚙️` HTML5 <br>
+`⚙️` Tailwind/CSS <br>
+`⚙️` JavaScript <br>
+`⚙️` GSAP interaktivne sekcije <br>
+`⚙️` SEO optimizacija <br>
+`⚙️` Netlify postavljanje <br>
 
-## ✉️ Contact
+## 📈 SEO i performanse
 
-Have a project in mind or want to work together?  
-🌐 https://milanwebportal.com
-📧 [contact@milanwebportal.com](mailto:contact@milanwebportal.com)  
-<br/>
-<p align="center"> 🚀 Built with passion, precision, and pixel-perfection by <strong>Milan Petkovski</strong> </p>
+`⚡` Jasna hijerarhija naslova i prilagođena indeksiranju struktura sekcija <br>
+`📱` Prvo mobilni raspored sa fokusom na čitljivost i brzinu navigacije <br>
+`🧠` Konverzioni tok organizovan oko primarnih tačaka poziva na akciju (CTA) <br>
+`🔎` Metadata i informacijska arhitektura pripremljeni za bolju vidljivost <br>
+
+## ✉️ Kontakt
+
+`🌐` Sajt: https://milanwebportal.com <br>
+`📧` Email: contact@milanwebportal.com <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
